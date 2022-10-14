@@ -1,6 +1,7 @@
+![MasterHead](https://nepalseocompany.com/uploads/1601303461againsoft-web-development-in-bangladesh.jpg)
 <h1 align="center">Hi 👋, I'm Bello Akeem</h1>
 <h3 align="center">A skilled and strategic Fullstack Developer from Nigeria</h3>
-<img align="right" alt="coding" width="400px" scr="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
+<img align="center" alt="coding" width="400px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leyksnal&label=Profile%20views&color=0e75b6&style=flat" alt="leyksnal" /> </p>
 
