@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bello Akeem</h1>
 <h3 align="center">A skilled and strategic Fullstack Developer from Nigeria</h3>
+<img align="right" alt="coding" width="400px" scr="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leyksnal&label=Profile%20views&color=0e75b6&style=flat" alt="leyksnal" /> </p>
 
