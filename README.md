@@ -1,7 +1,7 @@
 ![MasterHead](https://nepalseocompany.com/uploads/1601303461againsoft-web-development-in-bangladesh.jpg)
 <h1 align="center">Hi 👋, I'm Bello Akeem</h1>
-<h3 align="center">A skilled and strategic Fullstack Developer from Nigeria</h3>
-<img align="center" alt="coding" width="400px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<h3 align="center">Software Engineer</h3>
+<img align="center" alt="coding" width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leyksnal&label=Profile%20views&color=0e75b6&style=flat" alt="leyksnal" /> </p>
 
@@ -9,17 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/akim_leke" target="blank"><img src="https://img.shields.io/twitter/follow/akim_leke?logo=twitter&style=for-the-badge" alt="akim_leke" /></a> </p>
 
-- 🔭 I’m currently working on [Kappa](https://kappa-one.vercel.app/)
-
-- 🌱 I’m currently learning **Typescript**
-
-- 👯 I’m looking to collaborate on [Tendakare](https://tendakare.vercel.app/)
-
-- 👨‍💻 All of my projects are available at [https://bello-akeem.vercel.app/](https://bello-akeem.vercel.app/)
-
-- 📝 I regularly write articles on [https://medium.com/@leyksnal](https://medium.com/@leyksnal)
-
-- 💬 Ask me about **MEARN, Server Side Application**
+- 💬 Ask me about **Typescript, React, Kubernetes**
 
 - 📫 How to reach me **leyksnal@gmail.com**
 
