@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **Typescript, React, Kubernetes**
 
-- 📫 How to reach me **leyksnal@gmail.com**
+- 📫 How to reach me **leke@leyksnal.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/10Maw2R4k0omoiQRSX6_QRDPilo0ei9hiXKqNnwUkpj4/edit#heading=h.9izzidp01dl7](https://docs.google.com/document/d/10Maw2R4k0omoiQRSX6_QRDPilo0ei9hiXKqNnwUkpj4/edit#heading=h.9izzidp01dl7)
+- 📄 Know about my experiences [Here](https://resume.leyksnal.com)
 
 - ⚡ Fun fact **I eat whenever i'm hungry**
 
